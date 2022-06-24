@@ -1,4 +1,3 @@
-from ast import While
 from random import *
 from time import process_time
 print('Добро пожаловать в числовую угодайку')
